@@ -1,1 +1,1 @@
-Rock-paper-scissors game
+[Rock-paper-scissors](https://nurlan789.github.io/rock-paper-scissors/) game
